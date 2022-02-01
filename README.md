@@ -17,6 +17,7 @@ Git Commands
 | `git add -A` | Add all new and changed files to the staging area |
 | `git commit -m "[commit message]"` | Commit changes |
 | `git rm -r [file-name.txt]` | Remove a file (or folder) |
+| `git commit --amend -m "New commit message."` | Change the most recent commit message (Not Pushed Commit)|
 
 ### Branching & Merging
 
